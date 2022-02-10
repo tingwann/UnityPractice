@@ -20,9 +20,7 @@
     遊戲進行時按下右上方沙漏的按紐會回到起始頁面
 
 ## Game
-    試圖營造與經典遊戲Temple Run相似的遊戲體驗，雖然少了在後方追逐的怪物，
-    但看著可愛維京人向前奔跑何嘗不事件紓壓的事，少了怪物的追逐，
-    小小維京人可以更自在的在叢林中進行奔跑。
+    試圖營造與經典遊戲Temple Run相似的遊戲體驗。
 ## Github
     https://github.com/tingwann/UnityPractice.git
 
